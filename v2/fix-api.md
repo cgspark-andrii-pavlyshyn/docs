@@ -2,14 +2,14 @@
 
 <br>
 
-# eToroX API Documentation 3rd revision TEST
+# eToroX API Documentation 3rd revision
 <br>
 
 <br>
 
 <br>
 
-## eToroX FIX API
+## eToroX FIX API test
 
 <hr>
 
