@@ -2,7 +2,7 @@
 
 <br>
 
-# eToroX API Documentation 3rd revision TEST TITLE 6
+# eToroX API Documentation 3rd revision TEST TITLE 7
 <br>
 
 <br>
