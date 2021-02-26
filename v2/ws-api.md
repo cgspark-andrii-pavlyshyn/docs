@@ -9,7 +9,7 @@
 
 <br>
 
-## WebSockets API testa second version :D
+## WebSockets API testa second version
 <hr>
 
 eToroX WebSocket streaming servers offer real-time market data updates and user specific data. WebSockets is a bi-directional protocol offering fastest real-time data, helping users to build real-time applications.
