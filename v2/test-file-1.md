@@ -13,7 +13,7 @@
 
 <hr>
 
-The FIX API protocol, with its unsurpassed capability to reach a speed of up to 100,000 orders per second, is the default API protocol within eToroX’s professional product suite.<br>Positioned as the world standard in the traditional finance arena for professional trading, FIX API enables faster and smoother integration and authentication, thereby reducing friction and costs.
+The FIX API protocol, with its unsurpassed capability to reach a speed of up to 100,000 orders per second, is the default API protocol within eToroX’s professional product suite.<br>Positioned as the world standard in the traditional finance arena for professional trading, FIX API enables faster and smoother integration and authentication, thereby reducing friction and costs TESTTTTAAAAAAA
 
 <br>
 
